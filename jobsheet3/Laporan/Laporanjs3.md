@@ -18,30 +18,30 @@ Didalam praktikum ini, kita akan mempraktekkan bagaimana membuat array dari obje
 1. Buat Project baru, dengan nama **“ArrayObjects”**. Buat package dengan nama minggu3.
 
 2. Buat class **PersegiPanjang**
- <img src = "image/soal1-1.png">
+ <img src = "soal1-1.png">
 
 3. Pada fungsi main yaitu pada class **ArrayObjects**, buatlah array **PersegiPanjang** yang berisi 3 
 elemen:
 
-   <image src = "image/soal1-3.png">
+   <image src = "soal1-3.png">
 
 4. Kemudian isikan masing-masing atributnya
 
-    <image src = "image/soal1-4.png">
+    <image src = "soal1-4.png">
 
 5. Cetak ke layar semua atribut dari objek **ppArray**
 
-    <image src = "image/soal1-5.png">
+    <image src = "soal1-5.png">
 
 6. Jalankan dan amati hasilnya.
 
-    <image src = "image/soal1-6.png">
+    <image src = "soal1-6.png">
 
 ## 3.2.2 Verifikasi Hasil Percobaan
 
 Cocokkan hasil compile kode program anda dengan gambar berikut ini.
 
-  <image src = "image/soal1-7.png">
+  <image src = "soal1-7.png">
 
 ## 3.2.3 Pertanyaan
 
@@ -53,18 +53,18 @@ atribut dan sekaligus method?Jelaskan!
 2. Apakah class PersegiPanjang memiliki konstruktor?Jika tidak, kenapa dilakukan pemanggilan 
 konstruktur pada baris program berikut :
 
-    <image src = "image/soal2-1.png">
+    <image src = "soal2-1.png">
 
  Tidak dilakukan pemanggilan konstruktor, Deklarasi Array of Object
 
 3. Apa yang dimaksud dengan kode berikut ini:
 
-    <image src = "image/soal2-3.png">
+    <image src = "soal2-3.png">
 
 - Instansiasi Array of Object dengan banyak array yang bisa diisi adalah 3.
 4. Apa yang dimaksud dengan kode berikut ini:
     
-    <image src = "image/soal2-4.png">
+    <image src = "soal2-4.png">
 
 - Deklarasi dan Instansiasi Objek dari Array of Object untuk mengisi-nya
 
@@ -81,7 +81,7 @@ ada di ppArray.
 ## 3.3.1 Langkah-langkah Percobaan
 1. Import scanner pada class ArrayObjects
 
-<img src = "image/soal3-1.png">
+<img src = "soal3-1.png">
 
 Note: Letakkan kode import dibawah kode package.
 
@@ -89,12 +89,12 @@ Note: Letakkan kode import dibawah kode package.
 2. Pada praktikum 3.2 poin nomor 4, ganti kodenya dengan kode berikut ini, yaitu membuat objek 
 Scanner untuk menerima input, kemudian melakukan looping untuk menerima input: 
 
-<img src = "image/soal3-2.png">
+<img src = "soal3-2.png">
 
 3. Pada praktikum 3.2 poin nomor 5, ganti kodenya dengan berikut ini, yaitu melakukan looping 
 untuk mengakses isi array ppArray dan menampilkannya ke layar:
 
-<img src = "image/soal3-3.png">
+<img src = "soal3-3.png">
 
 4. Jalankan dan amati hasilnya.
 
@@ -102,7 +102,7 @@ untuk mengakses isi array ppArray dan menampilkannya ke layar:
 
 Contoh verifikasi hasil percobaan ini.
 
-<img src = "image/soal3-4.png">
+<img src = "soal3-4.png">
 
 ## **3.3.3 Pertanyaan**
 
@@ -126,13 +126,13 @@ class MapEntity
 3. Jika diketahui terdapat class Persegi yang memiliki atribut sisi bertipe integer, maka kode 
 dibawah ini akan memunculkan error saat dijalankan. Mengapa?
 
-<img src = "image/soal4-1.png">
+<img src = "soal4-1.png">
 
 - karena belum dideklarasikan pgArray[5].sisi nya seperti ppArray[i] = new PersegiPanjang();
 
 4. Modifikasi kode program pada praktikum 3.3 agar length array menjadi inputan dengan Scanner!
 
-<img src = "image/soal4-2.png">
+<img src = "soal4-2.png">
 
 5. Apakah boleh Jika terjadi duplikasi instansiasi array of objek, misalkan saja instansiasi dilakukan 
 pada ppArray[i] sekaligus ppArray[0]?Jelaskan !
@@ -150,21 +150,21 @@ masing-masing anggota array.
 
 2. Buat class Balok
 
-<img src = "image/soal34-1.png">
+<img src = "soal34-1.png">
 
 3. Pada fungsi main yaitu pada class ArrayBalok, buat array Balok yang berisi 3 elemen:
 
-<img src = "image/soal34-3.png">
+<img src = "soal34-3.png">
 
 4. Kemudian tambahkan kode berikut ini untuk mengisi array blArray menggunakan konstruktor 
 dari class Balok:
 
-<img src = "image/soal34-4.png">
+<img src = "soal34-4.png">
 
 5. Tampilkan semua volume balok tersebut dengan cara memanggil method hitungVolume() di 
 dalam looping seperti berikut ini:
 
-<img src = "image/soal34-5.png">
+<img src = "soal34-5.png">
 
 6. Jalankan dan amati hasilnya.
 
@@ -172,7 +172,7 @@ dalam looping seperti berikut ini:
 
 Cocokkan hasil compile kode program anda dengan gambar berikut ini.
 
-<img src = "image/soal34-2.png">
+<img src = "soal34-2.png">
 
 ## **3.4.3 Pertanyaan**
 
@@ -197,7 +197,7 @@ public class Persegi {
 
 2. Jika diketahui terdapat class Segitiga seperti berikut ini
 
-<img src = "image/soal343-1.png">
+<img src = "soal343-1.png">
 
 Tambahkan konstruktor pada class Segitiga tersebut yang berisi parameter int a, int t
 yang masing-masing digunakan untuk mengisikan atribut alas dan tinggi.
@@ -218,7 +218,7 @@ sgArray ke-3 alas: 25, tinggi: 10
 5. Kemudian menggunakan looping, cetak luas dan keliling dengan cara memanggil method 
 hitungLuas() dan hitungKeliling().
 
-<image src = "image/soal5.png">
+<image src = "soal5.png">
 
 # **3.5 Latihan Praktikum**
 1. Buatlah program yang dapat menghitung luas permukaan dan volume beberapa bangun ruang 
@@ -298,7 +298,7 @@ public class kubus {
 
 Hasil
 
-<image src = "image/tugas1.png">
+<image src = "tugas1.png">
 
 
 2. Sebuah perusahaan jual beli tanah membutuhkan sebuah program yang dapat memberitahu luas 
@@ -394,7 +394,7 @@ public static void main(String[] args) {
 ```
 
 Hasil
-<image src = "image/tugas2.png">
+<image src = "tugas2.png">
 
 3. Sebuah kampus membutuhkan program untuk menampilkan informasi mahasiswa berupa nama, 
 nim, jenis kelamin dan juga IPK mahasiswa. Program dapat menerima input semua informasi 
@@ -461,4 +461,4 @@ public class mahasiswaMain {
 
 Hasil
 
-<image src = "image/tugas2.png">
+<image src = "tugas3.png">
