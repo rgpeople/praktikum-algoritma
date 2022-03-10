@@ -15,7 +15,7 @@ public class segitiga {
 
     public void cariSisi(){
         c = ((alas*alas)+(tinggi*tinggi));
-        Systeatm.out.println("Panjang sisi miring adalah = "+(Math.sqrt(c)));
+        System.out.println("Panjang sisi miring adalah = "+(Math.sqrt(c)));
     }
     
     public Double hitungKeliling(){
