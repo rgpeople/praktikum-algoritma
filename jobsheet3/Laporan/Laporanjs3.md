@@ -394,6 +394,7 @@ public static void main(String[] args) {
 ```
 
 Hasil
+                              
 <image src = "tugas2.png">
 
 3. Sebuah kampus membutuhkan program untuk menampilkan informasi mahasiswa berupa nama, 
