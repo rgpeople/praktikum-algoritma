@@ -61,7 +61,7 @@ public class FaktorialMain {
 }}
 ```
 ### 4.2.2 Hasil Percobaan
-<img src = img/faktorialMain.PNG>
+<img src = img/faktorialMain.png>
 
 ### 4.2.3 Pertanyaan
 1. Jelaskan mengenai base line Algoritma Divide Conquer untuk melakukan pencarian nilai faktorial!
