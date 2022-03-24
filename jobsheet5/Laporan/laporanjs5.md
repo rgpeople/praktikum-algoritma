@@ -201,7 +201,7 @@ public class PangkatMain {
 ```
 
 ### 4.3.2 Verifikasi Hasil Percobaan
-<image src = "img/pangkatMain.PNG">
+<image src = img/pangkatMain.png>
 
 ### 4.3.3 Pertanyaan
 1. Jelaskan mengenai perbedaan 2 method yang dibuat yaitu PangkatBF() dan PangkatDC()!
@@ -351,7 +351,7 @@ public static void main(String[] args) {
 ```
 ### 4.4.2 Verifikasi Hasil Percobaan
 
-<image src = "img/mainSum.PNG">
+<image src = img/mainSum.png>
 
 ### 4.4.3 Pertanyaan
 1. Berikan ilustrasi perbedaan perhitungan keuntungan dengan method TotalBF() ataupun TotalDC()
@@ -487,4 +487,4 @@ public class Latihan {
 
 Hasil
 
-<image src ="img/praktikum.PNG">
+<image src =img/praktikum.png>
