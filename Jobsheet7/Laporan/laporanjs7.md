@@ -1,4 +1,9 @@
 # JOBSHEET VI
+## Faiz Atha Radhitya
+
+### 1F / 2141720229
+
+</br>
 
 # SEARCHING
 
@@ -530,6 +535,8 @@ public class tugas1Search {
     }
 }
 ```
+Hasil
+
 <img src ="img/tugas1.png">
 
 2. Modifikasi percobaan searching diatas dengan ketentuan berikut ini
@@ -661,6 +668,7 @@ public class PencarianNamaMhs {
  }
  ```
  Hasil
+ 
  <img src ="img/tugas2.png">
 
 3. Terdapat sebuah data array 1 dimensi sebagai berikut
