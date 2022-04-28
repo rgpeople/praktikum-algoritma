@@ -781,16 +781,22 @@ peekPosition(nim: String): void
 printMahasiswa(posisi: int): void
 ```
 Keterangan:
+
  Method create(), isEmpty(), isFull(), enqueue(), dequeue() dan print(), kegunaannya sama seperti
 yang telah dibuat pada Praktikum
+
  Method peek(): digunakan untuk menampilkan data Mahasiswa yang berada di posisi antrian
 paling depan
+
  Method peekRear(): digunakan untuk menampilkan data Mahasiswa yang berada di posisi antrian
 paling belakang
+
  Method peekPosition(): digunakan untuk menampilkan posisi antrian ke berapa, seorang
 Mahasiswa berada. Pengecekan dilakukan berdasarkan NIM
+
  Method printMahasiswa(): digunakan untuk menampilkan data mahasiswa pada suatu posisi
 tertentu dalam antrian
+
 Tugas2Queue
 ```java
 package jobsheet10.Tugas;
