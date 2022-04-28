@@ -271,7 +271,7 @@ do {
             switch (pilih) {
                 case 1:
                     if (Q.IsFull()) {
-                        pilih = 0;
+                        System.exit(0); //ubah
                     } else {
                         System.out.print("Masukkan data baru : ");
                         int dataMasuk = sc.nextInt();
@@ -280,7 +280,7 @@ do {
                     }
                 case 2:
                     if (Q.IsEmpty()) {
-                        pilih = 0;
+                        System.exit(0); //ubah
                     } else {
                         int dataKeluar = Q.Dequeue();
                         if (dataKeluar != 0) {
