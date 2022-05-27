@@ -771,5 +771,14 @@ public class nodeFilm {
 
 ```
 
+<img src="img/tugas2-1.png">
+
+<img src="img/tugas2-2.png">
+
+<img src="img/tugas2-3.png">
+
+<img src="img/tugas2-4.png">
+
+<img src="img/tugas2-5.png">
 
 
