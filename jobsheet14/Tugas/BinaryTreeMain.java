@@ -1,4 +1,4 @@
-package jobsheet14.Praktikum;
+package jobsheet14.Tugas;
 
 public class BinaryTreeMain {
     public static void main(String[] args){
@@ -19,6 +19,19 @@ public class BinaryTreeMain {
         bt.traverseInOrder(bt.root);
         System.out.println("");
         bt.traversePostOrder(bt.root);
+        System.out.println("");
+        System.out.println("Nilai Minimal");
+        bt.minimal();
+        System.out.println("");
+        System.out.println("Nilai Maximal");
+        bt.maksimal();
+        System.out.println("");
+        System.out.println("Print Leaf");
+        bt.printLeaf(bt.root);
+        System.out.println("");
+        System.out.println("");
+        System.out.println("Jumlah leaf");
+        System.out.println(" "+ bt.jumlahLeaf());
         System.out.println("");
         System.out.println("Find " +bt.find(5));
         bt.delete(8);

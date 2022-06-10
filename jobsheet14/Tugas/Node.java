@@ -1,4 +1,4 @@
-package jobsheet14.Praktikum;
+package jobsheet14.Tugas;
 
 public class Node {
     int data;
